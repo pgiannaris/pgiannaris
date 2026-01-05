@@ -1,4 +1,4 @@
-# Hi, I'm pgiannaris! <br>
+#💻 Hi, I'm pgiannaris!<br>
 
 👨‍💻 All of my projects are available at panosgiannaris.com<br><br>💬 Ask me about React, Javascript, Tailwind CSS<br><br>🌱 I’m currently learning Supabse and Stripe<br><br>
 
