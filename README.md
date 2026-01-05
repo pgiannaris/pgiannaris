@@ -1,4 +1,4 @@
-#💻 Hi, I'm pgiannaris!<br>
+# 💻 Hi, I'm pgiannaris!<br>
 
 👨‍💻 All of my projects are available at panosgiannaris.com<br><br>💬 Ask me about React, Javascript, Tailwind CSS<br><br>🌱 I’m currently learning Supabse and Stripe<br><br>
 
@@ -9,6 +9,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=pgiannaris&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pgiannaris&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
