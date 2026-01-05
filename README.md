@@ -9,6 +9,4 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=pgiannaris&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pgiannaris&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=pgiannaris)](https://git.io/streak-stats)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
